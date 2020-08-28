@@ -13,7 +13,8 @@ MAN=	cli.lua.8 \
 	screen.lua.8
 
 FILESDIR=	${LUAPATH}
-FILES=	cli.lua \
+FILES=	brand-fusionbsd.lua \
+	cli.lua \
 	color.lua \
 	config.lua \
 	core.lua \
