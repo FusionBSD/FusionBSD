@@ -15,8 +15,8 @@ PKGCONFBRANCH?=	latest
 .  endif
 . endif
 .endif
-CONFS=		FreeBSD.conf.${PKGCONFBRANCH}
-CONFSNAME=	FreeBSD.conf
+CONFS=		FusionBSD.conf
+CONFSNAME=	FusionBSD.conf
 CONFSDIR=	/etc/pkg
 CONFSMODE=	644
 PROG=	pkg

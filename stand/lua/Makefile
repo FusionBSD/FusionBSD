@@ -25,6 +25,7 @@ FILES=	cli.lua \
 	logo-fbsdbw.lua \
 	logo-orb.lua \
 	logo-orbbw.lua \
+	logo-fusionbsd.lua \
 	menu.lua \
 	password.lua \
 	screen.lua
